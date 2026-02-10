@@ -42,4 +42,4 @@ Interactive **Power BI dashboards** provide:
 
 ### ▶ Download Power BI File
 ```md
-[Download Dashboard](powerbi/HR_Analytics_Dashboard.pbix)
+[Download Dashboard](HR dashboard.pbix)
