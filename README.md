@@ -21,15 +21,18 @@ This system helps organizations **reduce turnover**, **optimize talent developme
 The project was developed following an **iterative sprint-based methodology**.
 
 ### 🔹 Sprint 1 – Data Preparation & Feature Engineering
-![Sprint 1](screenshots/sp1.PNG)
+![Sprint 1](sprint1.PNG)
 
 ### 🔹 Sprint 2 – Predictive Modeling & Machine Learning
-![Sprint 2](screenshots/sp2.PNG)
+![Sprint 2](sprint2.PNG)
 
 ### 🔹 Sprint 3 – Business Intelligence & Dashboarding
-![Sprint 3](screenshots/sp.PNG)
+![Sprint 3](sprint3.PNG)
 
 ---
+## 📁 Denormalized Dataset: 
+[Download Dataset from kaggle] (https://www.kaggle.com/datasets/sivm205/hr-data/data)
+
 
 ## 📊 Power BI Dashboard
 
